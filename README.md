@@ -1,5 +1,5 @@
-![logo](/Images/1)
-![logo](/Images/2)
+![logo](/Images/1.png)
+![logo](/Images/2.png)
 
 
 ## FEATURES :
