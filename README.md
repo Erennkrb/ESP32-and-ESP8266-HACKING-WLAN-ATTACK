@@ -20,13 +20,13 @@
 * Install [Arduino IDE](https://www.arduino.cc/en/software)
 * Add Esp32 in Additional Board Manager
 * Install your board, choose correct Port.
-* Compile and Upload *ESP32.ino* file.
+* Compile and Upload `ESP32.ino` file.
 
 ## ESP 8266 INSTALLATION
 * Install [Arduino IDE](https://www.arduino.cc/en/software)
 * Add Esp32 in Additional Board Manager
 * Install your board, choose correct Port.
-* Compile and Upload *ESP8266.ino* file.
+* Compile and Upload `ESP8266.ino` file.
 
 
 ## INSTALLATION :
@@ -36,10 +36,10 @@
 * Compile and Upload ESP32.ino file.
 
 ## WARNING :
-Use it only against your own networks and devices!
+EDUCATIONAL PURPOSES ONLY! - Use it only against your own networks and devices!
 Please check the legal regulations in your country before using it.
 We don't take any responsibility for what you do with this program.
 
 ## DONATIONS :
-- Paypal ; @ErenKrb. 
+- Paypal ; [ErenKrb](https://www.paypal.com/paypalme/Erenkrb)
 
