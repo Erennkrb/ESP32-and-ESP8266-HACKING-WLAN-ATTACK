@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <meta name='viewport' content='initial-scale=1.0, width=device-width'>
+        <title>WiFi Hacker</title>
+        <style>
+            body {
+                background: #1a1a1a;
+                color: #bfbfbf;
+                font-family: sans-serif;
+                margin: 0;
+            }
+            .content {max-width: 800px; margin: auto;}
+            table {border-collapse: collapse;}
+            th, td {
+                padding: 10px 6px;
+                text-align: left;
+                border-style:solid;
+                border-color: orange;
+            }
+            button {
+                display: inline-block;
+                height: 38px;
+                padding: 0 20px;
+                color:#fff;
+                text-align: center;
+                font-size: 11px;
+                font-weight: 600;
+                line-height: 38px;
+                letter-spacing: .1rem;
+                text-transform: uppercase;
+                text-decoration: none;
+                white-space: nowrap;
+                background: #2f3136;
+                border-radius: 4px;
+                border: none;
+                cursor: pointer;
+                box-sizing: border-box;
+            }
+            button:hover {
+                background: #42444a;
+            }
+            h1 {
+                font-size: 1.7rem;
+                margin-top: 1rem;
+                background: #2f3136;
+                color: #bfbfbb;
+                padding: 0.2em 1em;
+                border-radius: 3px;
+                border-left: solid #20c20e 5px;
+                font-weight: 100;
+            }
+        </style>
+    </head>
+    <body>
+        <div class='content'>
+            <p>
+                <h1 style="border: solid #20c20e 3px; padding: 0.2em 0.2em; text-align: center; font-size: 2.5rem;">Ertool</h1>
+                <span style="color: #F04747;">info: </span><br>
+                <span>
+                    - This tool was made by Erennkrb<br>
+                    - Special Credits: VPN-HACKER
+                </span>
+            </p><br>
+            <hr><br>
+            <h1>Attack Mode</h1>
+            <div>
+                <form style='display:inline-block;' method='post' action='/?deauth={deauth}'>
+                    <button style='display:inline-block;'>{deauth_button}</button>
+                </form>
+                <form style='display:inline-block; padding-left:8px;' method='post' action='/?hotspot={hotspot}'>
+                    <button style='display:inline-block;'>{hotspot_button}</button>
+                </form>
+            </div><br>
+            <hr><br>
+            <h1>Attack Panel</h1>
+            <table>
+                <tr>
+                    <th>SSID</th>
+                    <th>BSSID</th>
+                    <th>Channel</th>
+                    <th>Select</th>
+                </tr>
+                <!-- Placeholder for dynamic content to populate the table -->
+            </table>
+        </div>
+    </body>
+</html>
