@@ -28,16 +28,9 @@
 
 ## ESP 8266 INSTALLATION
 * Install [Arduino IDE](https://www.arduino.cc/en/software)
-* Add Esp32 in Additional Board Manager
+* Add Esp8266 in Additional Board Manager
 * Install your board, choose correct Port.
 * Compile and Upload `ESP8266.ino` file.
-
-
-## INSTALLATION :
-* Install [Arduino IDE](https://www.arduino.cc/en/software)
-* Add Esp32 in Additional Board Manager
-* Install your board, choose correct Port.
-* Compile and Upload ESP32.ino file.
 
 ## WARNING :
 EDUCATIONAL PURPOSES ONLY! - Use it only against your own networks and devices!
