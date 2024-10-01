@@ -9,7 +9,7 @@
 
 ## TESTED ON :
 * ESP32s - Nodemcu
-* ESP8266 - Nodemcu
+* ESP8266 - FreeNove
 * Probably will work in all-other boards too..
 
   ## CONCEPT :
