@@ -36,7 +36,3 @@
 EDUCATIONAL PURPOSES ONLY! - Use it only against your own networks and devices!
 Please check the legal regulations in your country before using it.
 We don't take any responsibility for what you do with this program.
-
-## DONATIONS :
-- Paypal ; [ErenKrb](https://www.paypal.com/paypalme/Erenkrb)
-
